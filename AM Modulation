@@ -1,0 +1,4 @@
+y(t)=A(t)cos(2paift);
+z(t)=y(t)*cos(2paift)=A(t)(1-cos(4paift));
+pass through filtering 
+z(t)=A(t)
